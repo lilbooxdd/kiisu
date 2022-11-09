@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://o.remove.bg/downloads/c22108ec-0a57-467c-883f-f4fa63d86cef/267-2676078_cat-animal-pet-sleeping-tired-ftesticker-freetoedit-blde-removebg-preview.png);
+}
+header{
+  display: flex;
+  justify-content: space-around;
+
+
+}
+ol {
+  list-style: none;
+  display: flex;
+  gap: 90px;
+}
+.main {
+  display: flex;
+  gap: 75px;
+  padding-left: 30px;
+
+}
+.otsing img {
+  height: 50px;
+  width: auto;
+}
+.logo img {
+  height: 90px;
+  width: auto;
+}
